@@ -72,14 +72,18 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Lovable App" },
-      { name: "description", content: "Lovable Generated Project" },
+      { title: "Natali Laffite | Portfolio" },
+      { name: "description", content: "A modern, premium legal portfolio showcasing Natália Laffitte's strategic advocacy and expertise." },
       { name: "author", content: "Lovable" },
-      { property: "og:title", content: "Lovable App" },
-      { property: "og:description", content: "Lovable Generated Project" },
+      { property: "og:title", content: "Natali Laffite | Portfolio" },
+      { property: "og:description", content: "A modern, premium legal portfolio showcasing Natália Laffitte's strategic advocacy and expertise." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:title", content: "Natali Laffite | Portfolio" },
+      { name: "twitter:description", content: "A modern, premium legal portfolio showcasing Natália Laffitte's strategic advocacy and expertise." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/de024404-da30-47be-b460-b54adf6a7509/id-preview-1d53824d--282214a7-a74f-4cba-bae6-69e80fa1efb9.lovable.app-1778541744214.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/de024404-da30-47be-b460-b54adf6a7509/id-preview-1d53824d--282214a7-a74f-4cba-bae6-69e80fa1efb9.lovable.app-1778541744214.png" },
     ],
     links: [
       {
