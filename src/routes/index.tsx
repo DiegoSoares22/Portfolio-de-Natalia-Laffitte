@@ -92,7 +92,7 @@ const experiences = [
   },
   {
     period: "2019 — 2021",
-    role: "Atuação Jurídica",
+    role: "Estagiária",
     place: "Caixa Econômica Federal",
     icon: Building2,
     items: [
