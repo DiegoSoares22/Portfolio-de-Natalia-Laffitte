@@ -191,7 +191,7 @@ function Index() {
               e atuação jurídica de alto nível.
             </h1>
             <p className="mt-6 text-base sm:text-lg text-muted-foreground max-w-xl leading-relaxed">
-              Especialista em demandas cíveis, empresariais e trabalhistas, com sólida experiência
+              Especialista em demandas cíveis e trabalhistas, com sólida experiência
               no Tribunal de Justiça, produção técnica jurídica e atuação acadêmica de destaque.
             </p>
             <div className="mt-8 flex flex-wrap gap-4">
