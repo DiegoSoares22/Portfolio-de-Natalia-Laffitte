@@ -79,7 +79,7 @@ const experiences = [
   },
   {
     period: "2021 — 2022",
-    role: "Assessoria Jurídica",
+    role: "Estagiária",
     place: "Gabinete da 2ª Vara Cível e Comercial — Tribunal de Justiça",
     icon: Scale,
     items: [
@@ -92,7 +92,7 @@ const experiences = [
   },
   {
     period: "2019 — 2021",
-    role: "Atuação Jurídica",
+    role: "Estagiária",
     place: "Caixa Econômica Federal",
     icon: Building2,
     items: [
@@ -130,7 +130,7 @@ const education = [
     badge: "Pós",
   },
   {
-    school: "MIT Sloan",
+    school: "Wharton",
     degree: "Significant Others of Sloan Club",
     detail: "Membra ativa — Massachusetts Institute of Technology",
     badge: "MIT",
@@ -191,7 +191,7 @@ function Index() {
               e atuação jurídica de alto nível.
             </h1>
             <p className="mt-6 text-base sm:text-lg text-muted-foreground max-w-xl leading-relaxed">
-              Especialista em demandas cíveis, empresariais e trabalhistas, com sólida experiência
+              Especialista em demandas cíveis e trabalhistas, com sólida experiência
               no Tribunal de Justiça, produção técnica jurídica e atuação acadêmica de destaque.
             </p>
             <div className="mt-8 flex flex-wrap gap-4">
