@@ -79,7 +79,7 @@ const experiences = [
   },
   {
     period: "2021 — 2022",
-    role: "Assessoria Jurídica",
+    role: "Estagiária",
     place: "Gabinete da 2ª Vara Cível e Comercial — Tribunal de Justiça",
     icon: Scale,
     items: [
