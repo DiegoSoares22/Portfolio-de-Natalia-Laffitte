@@ -265,7 +265,7 @@ function Index() {
             {...fadeUp}
             className="lg:col-span-2 text-base sm:text-lg text-muted-foreground leading-relaxed"
           >
-            Profissional do Direito com sólida atuação em demandas cíveis, empresariais e
+            Profissional do Direito com sólida atuação em demandas cíveis e
             trabalhistas, destacando-se pela capacidade analítica, produção técnica jurídica e
             experiência prática junto ao Tribunal de Justiça. Possui trajetória construída em
             ambientes jurídicos de alta responsabilidade, incluindo atuação em gabinetes
