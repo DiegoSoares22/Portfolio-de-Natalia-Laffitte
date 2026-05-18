@@ -130,10 +130,10 @@ const education = [
     badge: "Pós",
   },
   {
-    school: "Wharton",
-    degree: "Significant Others of Sloan Club",
-    detail: "Membra ativa — Massachusetts Institute of Technology",
-    badge: "MIT",
+    school: "Partners Club",
+    degree: "Membra ativa",
+    detail: "University of Pennsylvania",
+    badge: "UPenn",
   },
 ];
 
@@ -265,7 +265,7 @@ function Index() {
             {...fadeUp}
             className="lg:col-span-2 text-base sm:text-lg text-muted-foreground leading-relaxed"
           >
-            Profissional do Direito com sólida atuação em demandas cíveis, empresariais e
+            Profissional do Direito com sólida atuação em demandas cíveis e
             trabalhistas, destacando-se pela capacidade analítica, produção técnica jurídica e
             experiência prática junto ao Tribunal de Justiça. Possui trajetória construída em
             ambientes jurídicos de alta responsabilidade, incluindo atuação em gabinetes
@@ -384,7 +384,9 @@ function Index() {
               </p>
             </div>
             <a
-              href="#contato"
+              href="/artigo-natalia-laffitte.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
               className="inline-flex items-center gap-2 rounded-full bg-gold px-6 py-3 text-sm font-medium text-background hover:scale-[1.02] transition whitespace-nowrap"
             >
               Visualizar publicação
