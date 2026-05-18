@@ -130,8 +130,8 @@ const education = [
     badge: "Pós",
   },
   {
-    school: "Partners Club",
-    degree: "Membra ativa",
+    school: "Wharton",
+    degree: "Partners Club — Membra ativa",
     detail: "University of Pennsylvania",
     badge: "UPenn",
   },
