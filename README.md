@@ -1,60 +1,40 @@
-Professional portfolio website developed for a real client, built with TypeScript, React, and Tailwind CSS using AI-assisted development with Lovable. This project was part of my continuous learning path in frontend development, 
-applying TypeScript and modern tooling in a real client delivery context.
+# Portfolio - Natalia Laffitte
 
+Professional portfolio website delivered to a real client, built with TypeScript, React and Tailwind CSS.
 
-About the Project
-The client needed a professional online portfolio to present their work, personal brand, and services. I was responsible for the product conception, information architecture, content structure, and UX decisions, 
-delivering a modern, responsive interface aligned with the client's visual identity.
-The project also introduced me to Cloudflare Workers configuration via Wrangler and reinforced my understanding of code quality tooling with ESLint and Prettier in a TypeScript project.
+**Live:** https://laffitte-elegance-hub.vercel.app
 
-Technologies
+`TypeScript` `React` `Vite` `Tailwind CSS` `ESLint` `Prettier` `Vercel`
 
-TypeScript (97.3% of the codebase)
-React
-Tailwind CSS
-Vite (build tool)
-Lovable (AI-assisted development)
-Prettier (code formatting)
-ESLint (code quality)
-Wrangler (Cloudflare Workers configuration)
-Bun (package manager)
-Vercel (deployment)
+## About
 
+The client needed an online portfolio to present her work, personal brand and services. I handled information architecture, content structure and UX decisions, delivering a responsive interface aligned with the client visual identity.
 
-Project Structure
-Portfolio-de-Natalia-Laffitte/
-├── src/              # Application source code
-├── public/           # Static assets
-├── vite.config.ts    # Vite build configuration
-├── tsconfig.json     # TypeScript configuration
-├── components.json   # UI components configuration
-├── .prettierrc       # Prettier formatting rules
-├── eslint.config.js  # ESLint configuration
-└── wrangler.jsonc    # Cloudflare Workers configuration
+## Features
 
-What I practiced with this project
+- Visual identity aligned with the client personal brand
+- Responsive layout for desktop and mobile
+- Structured sections for work, services and contact
+- Production deployment on Vercel, with Cloudflare Workers configured via Wrangler as an alternative target
+- Code quality enforced with ESLint and Prettier
 
-TypeScript in a component-based React application delivered to a real client
-Code quality setup with ESLint and Prettier in a TypeScript project
-Cloudflare Workers configuration with Wrangler as an alternative deployment target
-Tailwind CSS for responsive and consistent design
-Vite as a modern development and build tool
-AI-assisted development workflow, directing, reviewing, and refining generated code to meet client expectations
+## Running locally
 
+```bash
+git clone https://github.com/DiegoSoares22/Portfolio-de-Natalia-Laffitte.git
+cd Portfolio-de-Natalia-Laffitte
+bun install
+bun run dev
+```
 
-Key Features
+> Built with AI-assisted development (Lovable), with review and refactoring of the generated code.
 
-Clean and modern visual identity aligned with the client's personal brand
-Responsive layout optimized for desktop and mobile
-Structured content sections for presenting work, services, and contact information
-Production deployment via Vercel
+## Sobre o projeto (PT-BR)
 
+Site de portfolio profissional entregue para uma cliente real, construido com TypeScript, React e Tailwind CSS.
 
-Learning Context
-This is a real client project that served as a practical exercise in frontend TypeScript development. As a Backend Developer expanding my stack, each client delivery gives me hands-on exposure to tools and decisions 
-I wouldn't encounter in purely academic exercises, including code quality configuration, deployment infrastructure, and the process of translating a client's vision into a working interface.
+A cliente precisava de um portfolio online para apresentar seu trabalho, sua marca pessoal e seus servicos. Fui responsavel pela arquitetura da informacao, estrutura de conteudo e decisoes de UX, entregando uma interface responsiva alinhada a identidade visual dela.
 
-Author
-Diego Soares
-Backend Developer, C# and ASP.NET Core
-Portfolio · LinkedIn · GitHub
+---
+
+**Diego Soares** - https://www.linkedin.com/in/diego-soaresdev/ - https://diegosoares.vercel.app
